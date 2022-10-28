@@ -8,9 +8,14 @@ namespace
     public class FormaGeometrica
     {
         public abstract class FormaGeometrica
-    {
-        public abstract double CalculadoraArea();
+        {
+            public abstract double CalculadoraArea();
+        }
 
-    }
+        public void FormaGeometrica()
+        {
+            
+        }
+
     }
 }
